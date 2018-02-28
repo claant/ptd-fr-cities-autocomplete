@@ -1,0 +1,11 @@
+input#company_works_at {
+    width: 85%;
+}
+div#my_popup {
+    width: 50%;
+}
+.test{
+	color: grey;
+	font-size: 13px;
+	font-weight: bold;
+}
